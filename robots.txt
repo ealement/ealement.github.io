@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ealement.github.io/sitemap.html.gz
+Sitemap: https://ealement.github.io/app/sitemap.html.gz
+Sitemap: https://ealement.github.io/assets/sitemap.html.gz
+Sitemap: https://ealement.github.io/css/sitemap.html.gz
+Sitemap: https://ealement.github.io/includes/sitemap.html.gz
+Sitemap: https://ealement.github.io/item/sitemap.html.gz
+Sitemap: https://ealement.github.io/src/sitemap.html.gz
